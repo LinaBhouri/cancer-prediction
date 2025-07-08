@@ -72,8 +72,5 @@ The model achieved strong performance with a well-balanced confusion matrix, sho
 ├── Model/
 │   └── Cancer_pred.ipynb
 │
-├── Plots/
-│   └── (Generated visualizations)
-│
 └── README.md
  </pre>
