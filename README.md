@@ -64,4 +64,16 @@ The model achieved strong performance with a well-balanced confusion matrix, sho
 
 ## 📌 Project Structure
 
-<pre> Cancer_prediction/ │ ├── Dataset/ │ └── The_Cancer_data_1500_V2.csv │ ├── Model/ │ └── Cancer_pred.ipynb │ ├── Plots/ │ └── README.md </pre>
+<pre> Cancer_prediction/
+│
+├── Dataset/
+│   └── The_Cancer_data_1500_V2.csv
+│
+├── Model/
+│   └── Cancer_pred.ipynb
+│
+├── Plots/
+│   └── (Generated visualizations)
+│
+└── README.md
+ </pre>
